@@ -1,0 +1,15 @@
+/Users/vikasavarina/Documents/навчання/тпо/kurs/kurs/bin/Debug/net9.0/kurs
+/Users/vikasavarina/Documents/навчання/тпо/kurs/kurs/bin/Debug/net9.0/kurs.deps.json
+/Users/vikasavarina/Documents/навчання/тпо/kurs/kurs/bin/Debug/net9.0/kurs.runtimeconfig.json
+/Users/vikasavarina/Documents/навчання/тпо/kurs/kurs/bin/Debug/net9.0/kurs.dll
+/Users/vikasavarina/Documents/навчання/тпо/kurs/kurs/bin/Debug/net9.0/kurs.pdb
+/Users/vikasavarina/Documents/навчання/тпо/kurs/kurs/obj/Debug/net9.0/kurs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vikasavarina/Documents/навчання/тпо/kurs/kurs/obj/Debug/net9.0/kurs.AssemblyInfoInputs.cache
+/Users/vikasavarina/Documents/навчання/тпо/kurs/kurs/obj/Debug/net9.0/kurs.AssemblyInfo.cs
+/Users/vikasavarina/Documents/навчання/тпо/kurs/kurs/obj/Debug/net9.0/kurs.csproj.CoreCompileInputs.cache
+/Users/vikasavarina/Documents/навчання/тпо/kurs/kurs/obj/Debug/net9.0/kurs.sourcelink.json
+/Users/vikasavarina/Documents/навчання/тпо/kurs/kurs/obj/Debug/net9.0/kurs.dll
+/Users/vikasavarina/Documents/навчання/тпо/kurs/kurs/obj/Debug/net9.0/refint/kurs.dll
+/Users/vikasavarina/Documents/навчання/тпо/kurs/kurs/obj/Debug/net9.0/kurs.pdb
+/Users/vikasavarina/Documents/навчання/тпо/kurs/kurs/obj/Debug/net9.0/kurs.genruntimeconfig.cache
+/Users/vikasavarina/Documents/навчання/тпо/kurs/kurs/obj/Debug/net9.0/ref/kurs.dll
